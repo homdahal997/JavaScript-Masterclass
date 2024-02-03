@@ -1,7 +1,7 @@
-// const link = document.querySelector("a");
-// console.log(link.getAttribute("href"));
-// link.setAttribute("href", "www.example.com");
-// console.log(link.getAttribute("href"));
+const link = document.querySelector("a");
+console.log(link.getAttribute("href"));
+link.setAttribute("href", "www.example.com");
+console.log(link.getAttribute("href"));
 
 
 // link.setAttribute("target", "_blank");
@@ -15,5 +15,5 @@
 // });
 
 
-// const brandName = document.querySelector("#website-name");
-// brandName.setAttribute("style", "color: blue;")
+const brandName = document.querySelector("#website-name");
+brandName.setAttribute("style", "color: blue;")

@@ -1,5 +1,5 @@
-// const brandName = document.querySelector("#website-name");
-// brandName.setAttribute("style", "color: blue;");
+ const brandName = document.querySelector("#website-name");
+brandName.setAttribute("style", "color: blue;");
 
 
 // const brandName = document.querySelector("#website-name");
