@@ -1,5 +1,6 @@
-// const topNav = document.querySelector(".top-nav");
-// const topNavChildren = Array.from(topNav.children);
+ const topNav = document.querySelector(".top-nav");
+ console.log(topNav.children);
+ const topNavChildren = Array.from(topNav.children);
 // topNavChildren.forEach(child => {
 //     child.classList.add("random");
 //     console.log(child);

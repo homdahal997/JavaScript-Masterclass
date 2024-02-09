@@ -25,5 +25,5 @@
 
 
 
-// const brandName = document.querySelector("#website-name");
-// brandName.classList.toggle("important");
+const brandName = document.querySelector("#website-name");
+brandName.classList.toggle("important");
